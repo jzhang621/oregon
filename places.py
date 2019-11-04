@@ -1,7 +1,7 @@
 import pandas as pd
 from googlemaps import Client, places
 
-client = Client(key='AIzaSyAIBuIyasYc7wVw9FmcNyP7e3PABRPrwvQ')
+client = Client(key='not')
 
 
 # returns names of state parks in california?
